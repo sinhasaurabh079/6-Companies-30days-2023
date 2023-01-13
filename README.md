@@ -3,6 +3,7 @@
 
 [![ReviseWithArsh](https://img.shields.io/badge/Language-C++-934fb5?style=for-the-badge&logo=cpp&logoColor=white)](https://github.com/ankitkumar734ac/6Companies30days)
 [![ReviseWithArsh](https://img.shields.io/badge/ReviseWithArsh-6Companies30Days-green?style=for-the-badge&logo=github)](https://github.com/ankitkumar734ac/6Companies30days)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasaurabh079&label=Repo%20views&color=0e75b6&style=flat" alt="sinhasaurabh079" /> </p>
 
 
 # Challenge Company 1 : Microsoft 
