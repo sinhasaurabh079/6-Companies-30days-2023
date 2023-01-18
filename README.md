@@ -10,7 +10,7 @@
 
 > Day 1-5
 
- 1.You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Link</a><br>
+1.You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Link</a> &#x2705;<br> 
 
 2.Combination Sum with a twist.<a href="https://leetcode.com/problems/combination-sum-iii/">Link</a><br>
 
